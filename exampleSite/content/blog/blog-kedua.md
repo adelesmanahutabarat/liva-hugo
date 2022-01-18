@@ -143,8 +143,6 @@ raw Markdown line up prettily. You can also use inline Markdown.
 
 ##### Image
 
-![image](../../images/post/post-1.jpg)
-
 <hr>
 
 ![Mengapa Belajar Coding Itu Penting? | Republika Online](https://static.republika.co.id/uploads/images/inpicture_slide/coding-ilustrasi-_160406100902-246.jpg)
