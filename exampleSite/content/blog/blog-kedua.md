@@ -2,7 +2,7 @@
 categories = ["HTML"]
 date = 2019-10-29T04:07:47Z
 description = "this is meta description"
-image = "images/gallery/code-pic.jpg"
+image = "images/post/post-6.jpg"
 tags = ["Photos", "Game", "HTML", "Python", "New"]
 title = "blog kedua"
 type = "post"
