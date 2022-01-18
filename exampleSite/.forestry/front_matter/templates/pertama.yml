@@ -17,3 +17,5 @@ fields:
   name: type
   label: type
   description: aku gak tau ini type apa
+pages:
+- exampleSite/content/blog/blog-pertama.md
